@@ -1,0 +1,13 @@
+.nav-item {
+  padding: 20px;
+  border-radius: 15px;
+  margin: 8px;
+  text-decoration: none;
+  color: white;
+  background-color: crimson;
+}
+
+.active-page {
+  color: white;
+  background-color: darkred;
+}
