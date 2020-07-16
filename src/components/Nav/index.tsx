@@ -14,6 +14,10 @@ const Nav = () => {
       <NavLink activeClassName="active-page" className="nav-item" to="posts">
         posts
       </NavLink>
+
+      <NavLink activeClassName="active-page" className="nav-item" to="posts/5">
+        posts / id
+      </NavLink>
     </nav>
   );
 };
